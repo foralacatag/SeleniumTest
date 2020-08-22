@@ -11,7 +11,7 @@ public class newSeleniumClass {
         /* create Chrome Driver */
         WebDriver driver=new ChromeDriver();
 
-        driver.get("https://www.cnn.com/");
+        driver.get("https://www.google.com/");
 
     }
 }
